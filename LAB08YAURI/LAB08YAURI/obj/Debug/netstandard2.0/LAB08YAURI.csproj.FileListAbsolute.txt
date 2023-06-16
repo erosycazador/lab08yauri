@@ -1,0 +1,17 @@
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\LAB08YAURI.csproj.AssemblyReference.cache
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\LAB08YAURI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\DynamicDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\ExplicitControlDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\ExplicitDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\GlobalDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\ImplicitControlDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\ImplicitDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\InheritanceDemo.xaml.g.cs
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\LAB08YAURI.AssemblyInfoInputs.cache
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\LAB08YAURI.AssemblyInfo.cs
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\LAB08YAURI.csproj.CoreCompileInputs.cache
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\LAB08YAURI.dll
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\refint\LAB08YAURI.dll
+C:\Users\ERICA\source\repos\LAB08YAURI\LAB08YAURI\LAB08YAURI\obj\Debug\netstandard2.0\LAB08YAURI.pdb
